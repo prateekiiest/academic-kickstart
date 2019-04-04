@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   
   * Collaborated with a team of 60 researchers from NASA GSFC, UCL and Stanford on development of solarimage processing algorithms and solar data storage functionality enhancements.
   * Worked on implementation of solarimage processing algorithms - Multi-scale Gaussian Normalisation with 18% improved memory utilization and better feature extraction with less noise.
-  * Got acknowledged along with researchers at NASA Goddard Space Flight Centerin nine releases for contributions to the project.
+  
   """
 
 +++
