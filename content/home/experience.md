@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   """  
 [[experience]]
   title = "Research Intern"
-  company = "Complex Network Research Group, IIT Kharagpur (May 2017 - Jun 2017)"
+  company = "Complex Network Research Group"
   company_url = ""
   location = "India"
   date_start = "2017-05-01"
