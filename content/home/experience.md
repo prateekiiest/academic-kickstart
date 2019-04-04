@@ -44,4 +44,31 @@ date_format = "Jan 2006"
  * Implemented a version of mediawiki-rst migration for conversion of mediawiki proposals to otherformats. Worked on an automated design for constructing project dependency graph for over 93% versions of OpenDaylight projects.
   """
 
+[[experience]]
+  title = "Software Developer Intern"
+  company = "FOSSASIA"
+  company_url = ""
+  location = "Singapore"
+  date_start = "2018-06-01"
+  date_end = "2018-9-12"
+  description = """
+  
+  * Designed an automated Jenkins support for building jobs in Maven through a bot service affecting over 75% of  Opendaylight projects. 
+ * Implemented a version of mediawiki-rst migration for conversion of mediawiki proposals to otherformats. Worked on an automated design for constructing project dependency graph for over 93% versions of OpenDaylight projects.
+  """
+  
+  
+  [[experience]]
+  title = "Software Developer Intern"
+  company = "Linux Foundation - OpenDaylight"
+  company_url = ""
+  location = "California"
+  date_start = "2018-07-01"
+  date_end = "2018-11-25"
+  description = """
+  
+  * Designed an automated Jenkins support for building jobs in Maven through a bot service affecting over 75% of  Opendaylight projects. 
+ * Implemented a version of mediawiki-rst migration for conversion of mediawiki proposals to otherformats. Worked on an automated design for constructing project dependency graph for over 93% versions of OpenDaylight projects.
+  """
+
 +++
