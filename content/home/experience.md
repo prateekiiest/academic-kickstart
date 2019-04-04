@@ -43,7 +43,6 @@ date_format = "Jan 2006"
   * Designed an automated Jenkins support for building jobs in Maven through a bot service affecting over 75% of  Opendaylight projects. 
  * Implemented a version of mediawiki-rst migration for conversion of mediawiki proposals to otherformats. Worked on an automated design for constructing project dependency graph for over 93% versions of OpenDaylight projects.
   """
-
 [[experience]]
   title = "Software Developer Intern"
   company = "FOSSASIA"
@@ -55,10 +54,8 @@ date_format = "Jan 2006"
   
   * Worked in a team of 126 developers to develop prototype forthe SUSI Smart Speaker Application along with implementation of APIs for various SUSI skills.
   * Implemented speech-to-text and text-to-speech functionality forthe Smart Speaker system with improved voice recognition accuracy of 91% measured using standard measures like Word errorrate.
-  """
-  
-  
-  [[experience]]
+  """  
+[[experience]]
   title = "Research Intern"
   company = "Complex Network Research Group, IIT Kharagpur (May 2017 - Jun 2017)"
   company_url = ""
@@ -71,7 +68,7 @@ date_format = "Jan 2006"
   * Achieved average precision of 88.9% measured by standard accuracy measures as compared to other proposed models.
   """
   
-   [[experience]]
+[[experience]]
   title = "Open Source Developer"
   company = "SunPy, OpenAstronomy"
   company_url = ""
