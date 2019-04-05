@@ -11,5 +11,5 @@ view = 4
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = "A novel"
+caption = ""
 +++
