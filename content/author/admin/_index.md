@@ -38,6 +38,11 @@ user_groups = ["Researchers", "Visitors"]
   course = "B.Tech in Computer Science and Technology"
   institution = "IIEST Shibpur"
   year = 2019
+  
+[[education.courses]]
+  course = "Basic Sciences"
+  institution = "South Point High School"
+  year = 2015
 
 
 # Social/Academic Networking
@@ -48,7 +53,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:prateekkol21@gmail.com".
 
 [[social]]
   icon = "twitter"
