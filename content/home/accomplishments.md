@@ -46,14 +46,12 @@ Recipient of Google India Udacity Scholarship
   description = ""
 
 [[item]]
-  organization = "edX"
+  organization = "Microsoft Research India"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Recipient of presitgous Microsoft Research India Scholarship "
+  date_start = "2017-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
   organization = "DataCamp"
