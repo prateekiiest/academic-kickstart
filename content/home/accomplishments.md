@@ -49,9 +49,8 @@ Recipient of Google India Udacity Scholarship
   
  [[item]]
   organization = "AIEEE Merit"
-  organization_url = "https://www.edx.org"
-  title = "Recipient of presitgous Microsoft Research India Scholarship "
-  date_start = "2017-03-01"
+  title = "Within top 10% of applicants in All India Engineering Entrance Exam"
+  date_start = "2015-03-01"
   date_end = ""
   description = ""
   
