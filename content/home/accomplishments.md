@@ -39,6 +39,14 @@ Recipient of Google India Udacity Scholarship
   date_start = "2018-10-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Inria, France"
+  title = "Selected for prestigious research internship at Inria, France"
+  date_start = "2018-03-01"
+  date_end = ""
+  description = ""
+  
 
 [[item]]
   organization = "Microsoft Research India"
@@ -53,5 +61,5 @@ Recipient of Google India Udacity Scholarship
   date_start = "2015-03-01"
   date_end = ""
   description = ""
-  
+   
 +++
