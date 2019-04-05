@@ -1,5 +1,6 @@
 +++
-title = "Mobile visual clothing search"
+title = "A Novel Graph Based Clustering Approach to Document Topic Modeling
+"
 date = 2013-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
