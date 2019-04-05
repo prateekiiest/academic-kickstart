@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-python" 
+  icon = "python" 
   icon_pack = "fab"
   name = "Python"
   description = "90%"
