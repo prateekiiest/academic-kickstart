@@ -22,14 +22,14 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-     name = "Titanic Survival Exploration"
-     tag = "Classification, Feature Selection"
+     name = "All"
+     tag = "*"
   
   [[content.filter_button]]
      name = "Deep Learning"
      tag = "Deep Learning"
   
-  [[content.filter_button]]
+   [[content.filter_button]]
      name = "Other"
      tag = "Demo"
 
