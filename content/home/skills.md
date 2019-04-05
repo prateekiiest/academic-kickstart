@@ -27,7 +27,7 @@ subtitle = ""
   description = "80%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "cuttlefish"
   icon_pack = "fas"
   name = "C"
   description = "90%"
