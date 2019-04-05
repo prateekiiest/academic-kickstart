@@ -40,10 +40,16 @@ subtitle = ""
   description = "80%"
   
   
-  [[feature]]
+ [[feature]]
   icon = "css3-alt"
   icon_pack = "fab"
-  name = "Java"
+  name = "CSS"
   description = "65%"
+  
+ [[feature]]
+  icon = "js"
+  icon_pack = "fab"
+  name = "Javascript"
+  description = "60%"
 
 +++
