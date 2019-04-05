@@ -38,5 +38,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Java"
   description = "80%"
+  
+  
+  [[feature]]
+  icon = "css3-alt"
+  icon_pack = "fab"
+  name = "Java"
+  description = "65%"
 
 +++
