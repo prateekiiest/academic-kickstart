@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "California"
   date_start = "2018-07-01"
-  date_end = "2018-11-25"
+  date_end = "2018-11-01"
   description = """
   
   * Designed an automated Jenkins support for building jobs in Maven through a bot service affecting over 75% of  Opendaylight projects. 
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Singapore"
   date_start = "2018-06-01"
-  date_end = "2018-9-12"
+  date_end = "2018-09-01"
   description = """
   
   * Worked in a team of 126 developers to develop prototype forthe SUSI Smart Speaker Application along with implementation of APIs for various SUSI skills.
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "India"
   date_start = "2017-05-01"
-  date_end = "2017-06-31"
+  date_end = "2017-06-01"
   description = """
   
   * Designed classification models upon student group dataset to predict group formation and group dynamics using mobile sensor data like wifi location, accelerometer values and voice levels.
@@ -74,7 +74,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "India"
   date_start = "2016-12-10"
-  date_end = "2018-04-24"
+  date_end = "2018-04-01"
   description = """
   
   * Collaborated with a team of 60 researchers from NASA GSFC, UCL and Stanford on development of solarimage processing algorithms and solar data storage functionality enhancements.
