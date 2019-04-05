@@ -18,12 +18,29 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+
+
+Recipient of Google India Udacity Scholarship
+2018 Selected for prestigious research internship at Inria, France
+2017 Recipient of Microsoft Research India Scholarship - IIT Kharagpur
+2016 Selected as Udacity student - Self-Driving Nanodegree Program
+2015 Within top 10% of applicants in All India Engineering Entrance Exam
+2014 Student award - Within top 3 students from School in Higher Secondary.
+2014 Awarded IISER Research Fellow Scholarship
+2012 Among top 100 students in Science Olympiad Foundation (SOF) in state
+2012 Among top 100 students in International Mathematics Olympiad in state
+
+
+
+
+
+
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Google India Udacity"
+  organization_url = "https://in.udacity.com/google-india-scholarships"
+  title = "Recipient of Google India Udacity Scholarship"
   url = ""
-  certificate_url = "https://www.coursera.org"
   date_start = "2018-10-01"
   date_end = ""
   description = ""
