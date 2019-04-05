@@ -10,7 +10,7 @@ summary = "An example of linking directly to an external project website using `
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning", "deep-learning"]
+tags = ["Machine Learning", "Deep Learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://example.org"
