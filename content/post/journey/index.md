@@ -35,45 +35,7 @@ summary = "Create a beautifully simple website or blog in under 10 minutes."
 
 # Set captions for image gallery.
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-default.png"
-caption = "Default"
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-ocean.png"
-caption = "Ocean"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-forest.png"
-caption = "Forest"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-dark.png"
-caption = "Dark"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-apogee.png"
-caption = "Apogee"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-1950s.png"
-caption = "1950s"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-coffee-playfair.png"
-caption = "Coffee theme with Playfair font"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-cupcake.png"
-caption = "Cupcake"
 +++
 
 **Academic** makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
