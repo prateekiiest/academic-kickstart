@@ -17,7 +17,7 @@ authors = ["Prateek Chanda", "Asit Kr. Das"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Computing, Communication and Networking Technologies *, IEEE. Xplore"
+publication = "In International Conference on Computing, Communication and Networking Technologies, IEEE. Xplore"
 publication_short = "In *ICCCNT*"
 
 # Abstract.
@@ -72,4 +72,3 @@ math = true
 +++
 
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
-
