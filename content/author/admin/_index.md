@@ -85,4 +85,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi, I am a current final year undergrad at the Indian Institute of Engineering Science and Technology, Shibpur(erstwhile BESU) and am pursuing my majors in Computer Science.
+A final year undergrad, soon to be graduating this year. An Open Source Software Developer and Advocate. Like to dwell between research and software.
