@@ -85,4 +85,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-A computer science undergrad, soon to be graduating this year. An Open Source Software Developer and Advocate. I have been involved in open source contributions to organisations like [ { name = "FOSSASIA", url = "https://fossasia.org/" } ], Linux Foundation and NASA Open Source Software as an intern. Like to dwell between research and software.
+A computer science undergrad, soon to be graduating this year. An Open Source Software Developer and Advocate. I have been involved in open source contributions to organisations like FOSSASIA, Linux Foundation and NASA Open Source Software as an intern. Like to dwell between research and software.
