@@ -85,4 +85,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
+"People enjoy the interaction on the Internet, and the feeling of belonging
+to a group that does something interesting: that’s how some software projects are born." - Linus Torvalds
+
 A computer science undergrad, soon to be graduating this year. An Open Source Software Developer and Advocate. I have been involved in open source contributions to organisations like FOSSASIA, Linux Foundation and NASA Open Source Software as an intern. Like to dwell between research and software.
