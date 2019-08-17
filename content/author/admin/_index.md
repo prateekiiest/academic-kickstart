@@ -88,4 +88,8 @@ user_groups = ["Researchers", "Visitors"]
 "People enjoy the interaction on the Internet, and the feeling of belonging
 to a group that does something interesting: that’s how some software projects are born." - Linus Torvalds
 
-A computer science undergrad, soon to be graduating this year. An Open Source Software Developer and Advocate. I have been involved in open source contributions to organisations like FOSSASIA, Linux Foundation and NASA Open Source Software as an intern. Like to dwell between research and software.
+This quote somehow summarizes my work and motivation.
+
+Hi, I am a computer science undergrad, soon to be graduating this year. 
+
+Throughout my undergraduate, I have been a passionate supporter of open source software. For me any software feels like a way to channelize one's thoughts and ideas into a form of creative expression. Internships with both FOSSASIA, Linux Foundation as a software developer intern during my pre-final year encouraged this passion.and NASA Open Source Software as an intern. Like to dwell between research and software.
