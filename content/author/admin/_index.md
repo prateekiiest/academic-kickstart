@@ -85,8 +85,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-"People enjoy the interaction on the Internet, and the feeling of belonging
-to a group that does something interesting: that’s how some software projects are born." - Linus Torvalds
+_"People enjoy the interaction on the Internet, and the feeling of belonging
+to a group that does something interesting: that’s how some software projects are born."_ - Linus Torvalds
 
 This quote somehow summarizes my work and motivation.
 
