@@ -92,4 +92,8 @@ This quote somehow summarizes my work and motivation.
 
 Hi, I am a computer science undergrad, soon to be graduating this year. 
 
-Throughout my undergraduate, I have been a passionate supporter of open source software. For me any software feels like a way to channelize one's thoughts and ideas into a form of creative expression. Internships with both FOSSASIA, Linux Foundation as a software developer intern during my pre-final year encouraged this passion.and NASA Open Source Software as an intern. Like to dwell between research and software.
+Throughout my undergraduate, I have been a passionate supporter of open source software. For me any software feels like a way to channelize one's thoughts and ideas into a form of creative expression. Internships with both FOSSASIA, Linux Foundation as a software developer intern during my pre-final year encouraged this passion.
+
+After my second year summer, I have been involed with the SunPy project under, funded by NASA Open Source Software where I worked on developing modules for solar data analysis using Python.
+
+Recently, we released over 9 versions of the SunPy code and 1.0 paper to be accepted at the American Astronomical Science Journal.
