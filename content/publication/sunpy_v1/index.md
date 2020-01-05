@@ -5,7 +5,7 @@ date = 2019-12-12T00:00:00
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Steven Christe", "Will T Barnes","Monica Bobra","Nabil Freij",
 "Laura Hayes", "Jack Ireland", "Stuart Mumford", "David Pérez-Suárez",
-"Daniel Ryan", "Albert Y Shih", "Prateek Chanda", "Silke Glogowski",
+"Daniel Ryan", "Albert Y Shih", *Prateek Chanda*, "Silke Glogowski",
 "Russell Hewett", "Vincent K Hughitt", "Andrew Hill","Kaustubh Hiware",
 "Andrew Inglis", "Michael S Kirk", "Sudarshan Konge", "James Paul Mason",
 "Shane Maloney", "Jongyeob Park", "Tiago Jose Pereira", "Kevin Reardon","Sabrina L Savage", "Tannmay Yadav", "Garrison Taylor", "David Stansby","Yash Jain", "Brigitta Sipocz", "Chandra Rupa Rajulapati",
