@@ -1,9 +1,16 @@
 +++
-title = "A Novel Graph Based Clustering Approach to Document Topic Modeling"
-date = 2018-07-01T00:00:00
+title = "SunPy v1.0, the community-developed, free and open-source solar data analysis environment for Python."
+date = 2019-12-12T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Prateek Chanda", "Asit Kr. Das"]
+authors = ["Steven Christe", "Will T Barnes","Monica Bobra","Nabil Freij",
+"Laura Hayes", "Jack Ireland", "Stuart Mumford", "David Pérez-Suárez",
+"Daniel Ryan", "Albert Y Shih", "Prateek Chanda", "Silke Glogowski",
+"Russell Hewett", "Vincent K Hughitt", "Andrew Hill","Kaustubh Hiware",
+"Andrew Inglis", "Michael S Kirk", "Sudarshan Konge", "James Paul Mason",
+"Shane Maloney", "Jongyeob Park", "Tiago Jose Pereira", "Kevin Reardon","Sabrina L Savage", "Tannmay Yadav", "Garrison Taylor", "David Stansby","Yash Jain", "Brigitta Sipocz", "Chandra Rupa Rajulapati",
+"Asish Panda"
+]
 
 # Publication type.
 # Legend:
@@ -17,15 +24,15 @@ authors = ["Prateek Chanda", "Asit Kr. Das"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In International Conference on Computing, Communication and Networking Technologies, IEEE. Xplore"
-publication_short = "In *ICCCNT*"
+publication = "Astrophysical Journal & American Geophysical Unit"
+publication_short = "In *AGU Fall Meeting & APj*"
 
 # Abstract.
-abstract = "Clustering is the task of assigning a set of objects into groups so that the objects within the same cluster are more similar to each other than to those in other clusters based on some similarity measures. Clustering of documents is an important task in text mining based on their research topics. In this field, cluster analysis is the task of grouping a set of documents in such a way that the documents in the same cluster have similar topic and documents of different clusters have different topics. The proposed method introduces a novel graph based clustering method which uses the importance factor of a document based on a better mathematical approach than well known classical methods. Document with the maximum importance factor in a cluster is considered as the centroid of the cluster. Publicly available synthetic dataset is used to evaluate the performance of the proposed algorithm and the method is compared with some traditional graph based methods to demonstrate its accuracy."
+abstract = "The SunPy project facilitates and promotes the use and development of several community-led, free, and open source data analysis software packages for solar physics based on the scientific Python environment. The project achieves this goal by developing and maintaining the sunpy core package and supporting an ecosystem of affiliated packages. The SunPy project is pleased to announce the 1.0 release of the sunpy package. This new release is the first stable release of the packages and includes several important new features such as improved data downloading capabilities, a large enhancement in coordinate and coordinate transformations capabilities, new map utility functions, and a new logging functionality amongst others. This talk will present how the sunpy package can be used for solar data analysis and discuss the roadmap for package."
 
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/ICCCNT.2018.8494134"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = true
