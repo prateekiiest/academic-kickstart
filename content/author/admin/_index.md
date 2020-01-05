@@ -85,13 +85,11 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-**_"People enjoy the interaction on the Internet, and the feeling of belonging
-to a group that does something interesting: that’s how some software projects are born."_** - Linus Torvalds
+**_"People enjoy the interaction on the Internet, and the feeling of belonging to a group that does something interesting: that’s how some software projects are born."_** - Linus Torvalds
 
 This quote somehow summarizes my work and motivation.
 
-Hi, I am a computer science undergrad, soon to be graduating this year. 
-
+Hey, I am Prateek, a recent grad, currently working at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) under the SCAI program. 
 Throughout my undergraduate, I have been a passionate supporter of open source software. For me any software feels like a way to channelize one's thoughts and ideas into a form of creative expression. Internships with both FOSSASIA, Linux Foundation as a software developer intern during my pre-final year encouraged this passion.
 
 After my second year summer, I have been involed with the SunPy project under, funded by NASA Open Source Software where I worked on developing modules for solar data analysis using Python.
