@@ -44,14 +44,14 @@ projects = ["internal-project"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8494134"
-url_preprint = "#"
-url_code = "#"
-url_dataset = "#"
-url_project = ""
+# url_preprint = "#"
+# url_code = "#"
+# url_dataset = "#"
+# url_project = ""
 url_slides = "https://docs.google.com/presentation/d/e/2PACX-1vSs3YZDMMUX3GU8VAaP9zRMAVh6vkBxB5Vz46JoFcFqPd4IEA9M8xK7bMB3nBMHfpB6GaaW6bw60e5o/pub?start=false&loop=false&delayms=3000"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+# url_video = "#"
+# url_poster = "#"
+# url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
