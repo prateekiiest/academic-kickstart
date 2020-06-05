@@ -21,18 +21,18 @@ authors = ["Steven Christe", "Will T Barnes","Monica Bobra","Nabil Freij",
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Astrophysical Journal & American Geophysical Unit"
-publication_short = "In *AGU Fall Meeting & APj*"
+publication = "The Astrophysical Journal & American Geophysical Unit"
+publication_short = "In *AGU Fall Meeting & AstroPhysical Journal*"
 
 # Abstract.
 abstract = "The SunPy project facilitates and promotes the use and development of several community-led, free, and open source data analysis software packages for solar physics based on the scientific Python environment. The project achieves this goal by developing and maintaining the sunpy core package and supporting an ecosystem of affiliated packages. The SunPy project is pleased to announce the 1.0 release of the sunpy package. This new release is the first stable release of the packages and includes several important new features such as improved data downloading capabilities, a large enhancement in coordinate and coordinate transformations capabilities, new map utility functions, and a new logging functionality amongst others. This talk will present how the sunpy package can be used for solar data analysis and discuss the roadmap for package."
 
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "doi.org/10.3847/1538-4357/ab4f7a"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -50,11 +50,11 @@ tags = []
 projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8494134"
-url_preprint = "#"
-url_code = "#"
+url_pdf = "https://iopscience.iop.org/article/10.3847/1538-4357/ab4f7a/pdf"
+url_preprint = "https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/631266"
+url_code = "https://github.com/sunpy/sunpy"
 url_dataset = "#"
-url_project = ""
+url_project = "https://github.com/sunpy/sunpy"
 url_slides = "#"
 url_video = "#"
 url_poster = "#"
@@ -77,5 +77,3 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
