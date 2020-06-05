@@ -10,7 +10,7 @@ summary = "Predicting house price rates in Boston."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Machine Learning", "Deep Learning"]
+tags = ["rp"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://prateekiiest.github.io/boston_housing/"

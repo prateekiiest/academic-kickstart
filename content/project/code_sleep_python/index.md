@@ -10,7 +10,7 @@ summary = "A curated list of awesome Projects in Python"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Python", "Machine Learning"]
+tags = ["se"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://prateekiiest.github.io/Code-Sleep-Python/"
