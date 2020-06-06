@@ -2,6 +2,7 @@
 # Project title.
 title = "Stock Prediction App"
 
+
 # Date this page was created.
 date = 2019-08-27T00:00:00
 
