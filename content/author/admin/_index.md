@@ -25,6 +25,7 @@ email = "prateekkol21@gmail.com"
 interests = [
   "Artificial Intelligence",
   "Social Network Analysis",
+  "HCI",
   "Graph Theory",
   "Data Mining"
 ]
@@ -35,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "B.Tech in Computer Science and Technology"
+  course = "B.Tech(Hons) in Computer Science and Technology"
   institution = "IIEST Shibpur"
   year = 2019
   
