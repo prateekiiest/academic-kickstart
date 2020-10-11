@@ -7,7 +7,7 @@ title = "LIAR Dataset Exploration"
 date = 2019-08-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "A part of NUS research project with Dr. Bryan Hooi"
+summary = "Exploration of LIAR Dataset"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
