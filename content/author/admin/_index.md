@@ -95,4 +95,8 @@ Throughout my undergraduate, I have been a passionate supporter of open source s
 
 After my second year summer, I have been involed with the SunPy project under, funded by NASA Open Source Software where I worked on developing modules for solar data analysis using Python.
 
+Side Note : My Erdos Number = 6. 
+
+Prateek Chanda => Asit Kr. Das => C.A. Murthy => Bidyut Baran Chaudhuri => Amitava Bhattacharya => Navin Madhavprasad Singhi => Paul Erdős1
+
 Recently, we released over 9 versions of the SunPy code and 1.0 paper to be accepted at the American Astronomical Science Journal.
