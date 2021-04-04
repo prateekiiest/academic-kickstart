@@ -86,7 +86,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-**_"People enjoy the interaction on the Internet, and the feeling of belonging to a group that does something interesting: that’s how some software projects are born."_** - Linus Torvalds
+**_"People enjoy the interaction on the Internet, and the feeling of belonging to a group that does something interesting: that’s how some software projects are born."**_ - Linus Torvalds
 
 This quote somehow summarizes my work and motivation.
 
@@ -95,8 +95,11 @@ Throughout my undergraduate, I have been a passionate supporter of open source s
 
 After my second year summer, I have been involed with the SunPy project under, funded by NASA Open Source Software where I worked on developing modules for solar data analysis using Python.
 
-Side Note : My Erdos Number = 6. 
+Side Note : My Erdos Number = 5. 
 
-Prateek Chanda => Asit Kr. Das => C.A. Murthy => Bidyut Baran Chaudhuri => Amitava Bhattacharya => Navin Madhavprasad Singhi => Paul Erdős1
+**_Prateek Chanda => Asit Kr. Das => C.A. Murthy => Amitava Bhattacharya => Navin Madhavprasad Singhi => Paul Erdős**_
 
-Recently, we released over 9 versions of the SunPy code and 1.0 paper to be accepted at the American Astronomical Science Journal.
+and 
+
+**_Russell J. Hewett => Michael T. Heath => 	John Russell Gilbert => Roger Charles Entringer => Paul Erdős**_
+
