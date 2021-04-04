@@ -95,11 +95,11 @@ Throughout my undergraduate, I have been a passionate supporter of open source s
 
 After my second year summer, I have been involed with the SunPy project under, funded by NASA Open Source Software where I worked on developing modules for solar data analysis using Python.
 
-Side Note : My Erdos Number = 5. 
+Side Note : My **Erdős** Number = 5. 
 
-**_Prateek Chanda => Asit Kr. Das => C.A. Murthy => Amitava Bhattacharya => Navin Madhavprasad Singhi => Paul Erdős**_
+**Prateek Chanda => Asit Kr. Das => C.A. Murthy => Amitava Bhattacharya => Navin Madhavprasad Singhi => Paul Erdős**
 
 and 
 
-**_Russell J. Hewett => Michael T. Heath => 	John Russell Gilbert => Roger Charles Entringer => Paul Erdős**_
+**Prateek Chanda => Russell J. Hewett => Michael T. Heath => 	John Russell Gilbert => Roger Charles Entringer => Paul Erdős**
 
